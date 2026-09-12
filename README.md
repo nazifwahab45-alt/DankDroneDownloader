@@ -3,7 +3,7 @@ Giving DJI (and now, others!) the D ;)
 
 There are many tools in the drone community which allow you to flash firmware, however DJI, much like Apple, would rather you didnt do this and they remove older firmware to more tightly control what versions their users are running. This isnt something that sits comfortably with me, you should be allowed to choose what firmware runs on your own devices and as such, i present you with DankDroneDownloader, or DDD for short. DDD archives both old and new firmware & with compatible 3rd party flashing software, will allow you to flash this firmware to your drone, camera, remote control or other device.
 
-DDD is quite simply a custom written firmware download tool for popular DJI devices and Autel Drones. Not a windows user? Not a problem! DDD is also available in your (Chrome, Firefox or Edge) web browser over at https://www.dankdronedownloader.com . Of course we recommend using the windows application for the best features, but the choice is yours.
+Quite simply, DDD a custom written firmware download tool for popular DJI devices and Autel Drones. Not a windows user? Not a problem! DDD is also available in your (Chrome, Firefox or Edge) web browser over at https://www.dankdronedownloader.com . Of course we recommend using the windows application for the best features, but the choice is yours.
 
 ------------
 ### ** Having connection issues?**
@@ -19,7 +19,7 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 
 ### DJI
 
-**Aircraft:** AGRAS MG-1A, AGRAS MG-1P RTK, AGRAS MG-1S, AGRAS T10, AGRAS T20, AGRAS T25, AGRAS T30, AGRAS T40, AGRAS T50, FPV Racer, Inspire 1, Inspire 1 Pro, Inspire 2, Inspire 3, Matrice 200, Matrice 200 V2, Matrice 300, Matrice 350 RTK, Matrice 600, Matrice 600 Pro, Matrice 3D, Matrice 3D Thermal, Matrice 4 Enterprise, Matrice 4 Thermal, Matrice M30/M30T, Matrice 400A, Mavic Air, Mavic Air 2, Mavic Air 2S, Mavic Air 3, Mavic Air 3S, Mavic Mini, Mini 2, Mini 2 SE, Mini 3, Mini 3 Pro, Mini 4 Pro, Mini 4K, Mini 5 Pro, Mini SE, Neo, Neo 2, Flip, Avata, Avata 2, Avata 360, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Incl Zoom, Mavic Pro 2 Enterprise, Mavic Pro 2 Enterprise Dual, Mavic Pro 2 Enterprise Advanced RTK, Mavic 3, Mavic 3 Classic, Mavic 3 Enterprise, Mavic 3 Thermal, Mavic 3 Multispectral, Mavic 3 Pro, Mavic 4 Pro, Phantom 3 - 4K, Phantom 3 - Advanced, Phantom 3 - Professional, Phantom 3 - Standard, Phantom 4 - Advanced, Phantom 4 - Multispectral, Phantom 4 - Professional, Phantom 4 - Professional 2.0, Phantom 4 - Standard, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Spark, Specta Mini, EVO, EVO 2
+**Aircraft:** AGRAS MG-1A, AGRAS MG-1P RTK, AGRAS MG-1S, AGRAS T10, AGRAS T20, AGRAS T25, AGRAS T30, AGRAS T40, AGRAS T50, FPV Racer, Inspire 1, Inspire 1 Pro, Inspire 2, Inspire 3, Lito, Lito X1, Matrice 200, Matrice 200 V2, Matrice 300, Matrice 350 RTK, Matrice 600, Matrice 600 Pro, Matrice 3D, Matrice 3D Thermal, Matrice 4 Enterprise, Matrice 4 Thermal, Matrice M30/M30T, Matrice 400A, Mavic Air, Mavic Air 2, Mavic Air 2S, Mavic Air 3, Mavic Air 3S, Mavic Mini, Mini 2, Mini 2 SE, Mini 3, Mini 3 Pro, Mini 4 Pro, Mini 4K, Mini 5 Pro, Mini SE, Neo, Neo 2, Flip, Avata, Avata 2, Avata 360, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Incl Zoom, Mavic Pro 2 Enterprise, Mavic Pro 2 Enterprise Dual, Mavic Pro 2 Enterprise Advanced RTK, Mavic 3, Mavic 3 Classic, Mavic 3 Enterprise, Mavic 3 Thermal, Mavic 3 Multispectral, Mavic 3 Pro, Mavic 4 Pro, Phantom 3 - 4K, Phantom 3 - Advanced, Phantom 3 - Professional, Phantom 3 - Standard, Phantom 4 - Advanced, Phantom 4 - Multispectral, Phantom 4 - Professional, Phantom 4 - Professional 2.0, Phantom 4 - Standard, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Spark, Specta Mini, EVO, EVO 2
 
 **Goggles:** FPV Racer (& DIY FPV Mode), FPV System, FPV Goggles V1, Racing Edition, Standard, Integra, Goggles 2, Goggles 3, Goggles N3
 
@@ -170,17 +170,8 @@ As of this version, only V3.0 Build 8666.1215 and up will be allowed to connect 
 
 ------------
 
-
-### Donations
-DDD welcomes donations. The servers dont cost a huge amount to keep online, but do of course have a cost. There's also my time in sourcing and adding new firmware and of course app updates, web system updates and keeping track of new models. If you wanted to donate some cash for my time or server costs, this is of course much appreciated & your name will be shown in the app and on the website. Thank you very much for donating if you choose to do so! :)
-
-PayPal Donation URL: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=KRR8TN42WWL88
-
-------------
-
-
 ### Security
-I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself and for anti-decompilation. Since 2024 DDD has been codesigned to try to reduce instances of these false positives, however some will always seem to crop up every now and again.These are of course false positives. Rest assured nothing nefarious is going on! 
+I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself and for anti-decompilation. Since 2024 DDD has been codesigned to try to reduce these detection, however some will always seem to crop up every now and again. These are of course false positives.
 
 I will try to remember (i am human) to update the link below with results for the current app version.
 
